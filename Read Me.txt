@@ -1,0 +1,10 @@
+1- extract app file 
+2- run back end ,if the port changed , you can update in  this file path
+ amanah Task (front+back)\angular-frontend\src\app\blog.service.ts
+
+3- run front end 
+4- npm install 
+5- ng serve --open
+6- Aly Salah
+7- phone :01121145856
+8- main :alisalah9694@gmail.com
